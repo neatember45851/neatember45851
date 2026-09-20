@@ -1,16 +1,21 @@
-## Hi there 👋
+# hey
 
-<!--
-**neatember45851/neatember45851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just getting started on GitHub. Still figuring things out and building small stuff along the way.
 
-Here are some ideas to get you started:
+### about me
+- Learning by doing — mostly coding side projects and experimenting with ideas
+- Currently diving into web stuff and a bit of backend
+- Prefer simple, clean solutions over over-engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### tech I use
+- Python
+- JavaScript / TypeScript
+- Git & Linux
+- Occasional Node.js and basic web frameworks
+
+### projects
+Nothing public yet. Will drop some small tools and experiments here when they're ready.
+
+---
+
+Feel free to reach out if you want to chat about code or collaborate on something simple.
